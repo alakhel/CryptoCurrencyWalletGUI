@@ -1,4 +1,4 @@
-# Crypto
+# Crypto with SAM Pattern (action, model, state, view)
 a frontEnd app that consume a public API, it's a portofolio for cryptoMoney.
 ![app preview](https://github.com/alakhel/Crypto/blob/master/appPreview.png)
 
