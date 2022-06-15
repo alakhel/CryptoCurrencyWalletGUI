@@ -1,7 +1,7 @@
 
 // Coin Layer API Infos
 const coinlayerInfos = {
-  // Feel free to use my api key, it's not valid anymore you can request one for free
+  // Feel free to use my api key, if it's not valid anymore you can request one for free
   // link to request the api key : https://coinlayer.com/product
   apiKey : 'f603e657ccbe50ee8c7810e417538537', 
   liveUrl : 'http://api.coinlayer.com/api/live',
